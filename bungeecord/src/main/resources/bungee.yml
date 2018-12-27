@@ -1,0 +1,4 @@
+name: NuVotifier
+main: com.vexsoftware.votifier.bungee.NuVotifier
+version: @app.version@
+author: ParallelBlock, blakeman8192, Kramer, tuxed
