@@ -1,0 +1,8 @@
+main: me.kate.punish.Main
+name: PunishGUI
+version: 1.0
+author: Kate
+description: Punishment GUI for litebans
+commands:
+  punish:
+    description: Opens punishment gui
